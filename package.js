@@ -1,7 +1,7 @@
 Package.describe({
   summary: "bootstrap progressbar for meteor",
   version: "0.0.1",
-  name: "bootstrap-progressbar",
+  name: "xc8tlik:bootstrap-progressbar",
   git: "https://github.com/xc8tlik/meteor-bootstrap-progressbar.git"
 });
 
