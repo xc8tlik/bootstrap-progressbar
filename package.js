@@ -9,8 +9,9 @@ Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.0');
   api.use(['templating'], 'client');
   api.addFiles([
+    'css/bootstrap-progressbar-3.3.0.css',
     'lib/bootstrap-progressbar.js',
-    'bootstrap-progressbar-template.html',
-    'bootstrap-progressbar-template.js',
+    'lib/bootstrap-progressbar-template.html',
+    'lib/bootstrap-progressbar-template.js',
   ], 'client');
 });
